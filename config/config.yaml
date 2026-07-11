@@ -282,7 +282,7 @@ notification:
     email:
       from: "kangjiankangjian@gmail.com"                        # 发件人邮箱地址
       password: "gftdnpgsabavbapy"                    # 发件人邮箱密码或授权码
-      to: "kangjiankangjian@gmail.com"                          # 收件人邮箱，多个用逗号分隔
+      to: "kangjiankangjian@gmail.com, wafllyy@gmail.com"                          # 收件人邮箱，多个用逗号分隔
       smtp_server: ""                 # SMTP 服务器（可选，留空自动识别）
       smtp_port: ""                   # SMTP 端口（可选，留空自动识别）
 
