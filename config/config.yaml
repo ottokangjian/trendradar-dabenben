@@ -280,9 +280,9 @@ notification:
       chat_id: ""                     # Telegram Chat ID
 
     email:
-      from: ""                        # 发件人邮箱地址
-      password: ""                    # 发件人邮箱密码或授权码
-      to: ""                          # 收件人邮箱，多个用逗号分隔
+      from: "kangjiankangjian@gmail.com"                        # 发件人邮箱地址
+      password: "gftdnpgsabavbapy"                    # 发件人邮箱密码或授权码
+      to: "kangjiankangjian@gmail.com"                          # 收件人邮箱，多个用逗号分隔
       smtp_server: ""                 # SMTP 服务器（可选，留空自动识别）
       smtp_port: ""                   # SMTP 端口（可选，留空自动识别）
 
@@ -317,7 +317,7 @@ storage:
   # 数据格式选项
   formats:
     sqlite: true                      # 主存储（必须保持 true，请勿关闭）
-    txt: false                        # 是否生成 TXT 快照（true=生成, false=不生成）
+    txt: true                        # 是否生成 TXT 快照（true=生成, false=不生成）
     html: true                        # 是否生成 HTML 报告（true=生成, false=不生成）
                                       # ⚠️ 邮件推送或者需要看网页版报告必须设为 true
 
