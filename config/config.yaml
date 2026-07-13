@@ -153,6 +153,10 @@ rss:
       name: "Google Alert - Green Esteel"
       url: "https://www.google.com/alerts/feeds/12264653080870986050/1151175780007945706"
 
+     - id: "ga-esteel"
+      name: "Google Alert - Esteel"
+      url: "https://www.google.com/alerts/feeds/12264653080870986050/16102360844690564024"     
+
     - id: "ga-zhiyuankonggu"
       name: "Google Alert - 至源控股"
       url: "https://www.google.com/alerts/feeds/12264653080870986050/1151175780007945686"
