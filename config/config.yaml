@@ -148,6 +148,14 @@ rss:
     - id: "ga-rgl"
       name: "Google Alert - 瑞钢联"
       url: "https://www.google.com/alerts/feeds/12264653080870986050/4728014356179676190"
+
+    - id: "ga-greenesteel"
+      name: "Google Alert - Green Esteel"
+      url: "https://www.google.com/alerts/feeds/12264653080870986050/1151175780007945706"
+
+    - id: "ga-zhiyuankonggu"
+      name: "Google Alert - 至源控股"
+      url: "https://www.google.com/alerts/feeds/12264653080870986050/1151175780007945686"
       
     # 自定义源示例
     # - id: "custom-feed"
