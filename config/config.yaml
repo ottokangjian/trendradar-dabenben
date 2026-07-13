@@ -141,6 +141,14 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
+    - id: "ga-yzh"
+      name: "Google Alert - 游振华"
+      url: "https://www.google.com/alerts/feeds/12264653080870986050/13739287094374783352"
+
+    - id: "ga-rgl"
+      name: "Google Alert - 瑞钢联"
+      url: "https://www.google.com/alerts/feeds/12264653080870986050/4728014356179676190"
+      
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
